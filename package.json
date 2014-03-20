@@ -23,8 +23,9 @@
     "jade":            "*",
     "express-less":    "*",
     "request":         "*",
-    "express-session": "*"
-  },
+    "express-session": "*",
+    "socket.io"     :   "*"
+    },
   "devDependencies": {
     "grunt":                "*",
     "grunt-contrib-jshint": "*",
@@ -44,4 +45,3 @@
     }
   }
 }
-
